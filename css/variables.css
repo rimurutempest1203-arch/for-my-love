@@ -27,8 +27,7 @@ body {
     min-height: 100vh;
     color: var(--color-dark);
     overflow-x: hidden;
-    /* GIF as global background */
-background-image: url('../assets/bg1.gif');
+    background-image: url('../assets/bg1.gif');    /* GIF as global background */
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
